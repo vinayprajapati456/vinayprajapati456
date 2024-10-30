@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @vinayprajapati456
-- 
 -👀 I’m interested in coding, reading books, and playing badminton
-
 -🌱 I’m currently learning DSA & Backend dev
-
 -💞️ I’m pursuing a B.Tech in Computer Science and Engineering course from IIT Patna
-
 -📫 How to reach me - mail id - golukumarprajapati76@gmail.com
 
 <!---
